@@ -1,0 +1,31 @@
+.footer{
+    margin-top: 20px;
+}
+
+.col{
+    padding: 1em;
+}
+
+.navbar-brand{
+    font-size: 1.7em;
+}
+
+.nav-link{
+    padding: 30px;
+    font-size: 1.5em;
+}
+
+.card-css{
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+
+.card-title{
+    font-size: 3em;
+}
+
+.card-img-top{
+    margin: auto;
+    width: fit-content;
+    padding: 2em;
+}
